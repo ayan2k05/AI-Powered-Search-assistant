@@ -131,7 +131,7 @@ if __name__ == "__main__":
             search_google_and_read(search_term)
 
         elif 'ai' in user_input or 'AI' in user_input:
-            prompt = user_input.replace('ai', '').replace('transformer', '').strip()
+            prompt = user_input.replace('ai', '').replace('AI', '').strip()
             ai_response = generate_ai_response(prompt)
             print(ai_response)
             speak(ai_response)
