@@ -1,7 +1,7 @@
-#this Voice assistant is made by Ayan Pathan(B.Tech AI&DS Modi institute of technology), Aasma ansari(B.Sc Physics)[Passionate about NLP]
-#voice assistant is nothing more than a project for us
+#this Voice assistant is made by Ayan Pathan(B.Tech AI&DS Modi institute of technology)
+#voice assistant is nothing more than a project for me
 #You can clone this repository, Express your reviews
-#to be honest we just wanted to make extraction and Main Context extractor from Google and Wikipedia Searches
+#to be honest ,I just wanted to make extraction and Main Context extractor from Google and Wikipedia Searches
 #I used ChatGPT-neo because i dont have api key of chatgpt3/4
 #install the requirement.txt file and install the following libraries
 #pip install -r requirements.txt
