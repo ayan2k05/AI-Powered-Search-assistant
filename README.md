@@ -3,11 +3,11 @@
 
 ## Overview
 
-This Voice Assistant is a project created by Ayan Pathan. It serves as a demonstration of our skills in AI, NLP, and data extraction. While the assistant might seem simple, it is an outcome of our enthusiasm for exploring the intersection of technology and natural language processing.
+It serves as a demonstration of our skills in AI, NLP, and data extraction. While the assistant might seem simple, it is an outcome of our enthusiasm for exploring the intersection of technology and natural language processing.
 
 ## Project Motivation
 
-To be honest, i just wanted to create an effective extraction tool and a main context extractor from Google and Wikipedia searches. I chose to use GPT-Neo since we do not have access to an API key for GPT-3 or GPT-4.
+To be honest, i just wanted to create an effective extraction tool and a main context extractor from Google and Wikipedia searches but i used GPT-Neo since i do not have access to an API key for GPT-3 or GPT-4.
 
 ## Features
 
