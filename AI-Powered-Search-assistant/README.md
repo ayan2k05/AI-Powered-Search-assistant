@@ -42,7 +42,7 @@ To be honest, we just wanted to create an effective extraction tool and a main c
 3. Run the program:
 
    ```bash
-   python main.py
+   python AI powered Search Assistant.py
    ```
 
 ## Contributing
